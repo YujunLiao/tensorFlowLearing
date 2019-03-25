@@ -10,14 +10,21 @@ def add_layer(inputs, in_size, out_size, layerName, activation_function=None):
     with tf.name_scope(layerName):
         with tf.name_scope('weights'):
             Weights = tf.Variable(tf.random_normal([in_size, out_size]))
+            # result visualization, record the change of the variable
+            tf.summary.histogram('weight1', Weights)
         with tf.name_scope('biases'):
             biases = tf.Variable(tf.zeros([1, out_size]) + 0.1)
+            # result visualization, record the change of the variable
+            tf.summary.histogram('biae1',biases)
         with tf.name_scope('Wx_plus_b'):
             Wx_plus_b = tf.matmul(inputs, Weights) + biases
     if activation_function is None:
         outputs = Wx_plus_b
     else:
         outputs = activation_function(Wx_plus_b)
+        # result visualization, record the change of the variable
+        # tf.summary.histogram(layerName + '/outputs', outputs)
+        tf.summary.histogram(layerName+'/output', outputs)
     return outputs
 
 
@@ -35,23 +42,35 @@ with tf.name_scope('inputsTrainingData'):
 # one input, one output
 # ten neural on hide layer
 hideLayer = add_layer(xs, 1, 10, 'hide', activation_function=tf.nn.relu)
-prediction = add_layer(hideLayer, 10, 1, 'output', activation_function=None)
+predictionLayer = add_layer(hideLayer, 10, 1, 'prediction', activation_function=None)
 # compute loss
 with tf.name_scope('lossCompute'):
-    loss = tf.reduce_mean(tf.reduce_sum(tf.square(ys - prediction),reduction_indices=[1]))
+    loss = tf.reduce_mean(tf.reduce_sum(tf.square(ys - predictionLayer), reduction_indices=[1]))
+    # result visualization, record the change of the variable
+    tf.summary.scalar('loss', loss)
 # define the train step to minimize the loss.
 with tf.name_scope('train'):
     train_step = tf.train.GradientDescentOptimizer(0.1).minimize(loss)
 
 # initialize all variables
 init_op = tf.global_variables_initializer()
-
 # usage odd
 # init_op = tf.initialize_all_variables()
 
+
 with tf.Session() as sess:
-    sess.run(init_op)
     # result visualization
+    # merge all the summaries
+    merged = tf.summary.merge_all()
+
+    # write the log file for the tensorflow
+    # used on pi
+    # writer = tf.train.SummaryWriter("./logs", sess.graph)
+    # used on computer
+    writer = tf.summary.FileWriter("./logs", sess.graph)
+
+    sess.run(init_op)
+
     # create a figure
     fig = plt.figure()
     # set title
@@ -71,6 +90,9 @@ with tf.Session() as sess:
     for i in range(1000):
         sess.run(train_step, feed_dict={xs: x_data, ys: y_data})
         if i % 50 == 0:
+            # result visualization
+            rs = sess.run(merged, feed_dict={xs: x_data, ys: y_data})
+            writer.add_summary(rs, i)
             try:
                 print(i)
                 # remove a line according to the name
@@ -79,7 +101,7 @@ with tf.Session() as sess:
                 subFig.lines.remove(subFig.lines[0])
             except Exception:
                 pass
-            prediction_value = sess.run(prediction, feed_dict={xs: x_data})
+            prediction_value = sess.run(predictionLayer, feed_dict={xs: x_data})
 
             # Add a line into the axes.
             # Return a list that has only the current Line2D type object.
@@ -110,8 +132,8 @@ with tf.Session() as sess:
             # print(subFig.lines, subFig.lines[0], len(subFig.lines))
             # print(line, line[0], len(line))
 
+    writer.close()
 
-# used on pi
-# writer = tf.train.SummaryWriter("./logs", sess.graph)
-# used on computer
-writer = tf.summary.FileWriter("./logs", sess.graph)
+
+
+
