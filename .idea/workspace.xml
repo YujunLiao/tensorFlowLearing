@@ -2,149 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30973a12-c238-40d7-abfb-6382f36f52ba" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/code/TF1/neuralNetwork2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/TF1/neural_network3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Tensorflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Tensorflow.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/absl/testing/absltest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/absl/testing/absltest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/astor/node_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/astor/node_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/gast/gast.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/gast/gast.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/descriptor_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/descriptor_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/test_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/internal/test_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/unittest_import_public_pb2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/google/protobuf/unittest_import_public_pb2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/hl/test_dataset_getitem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/hl/test_dataset_getitem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_dimension_scales.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_dimension_scales.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_h5p.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_h5p.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/h5py/tests/old/test_slicing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/keras_preprocessing/sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/keras_preprocessing/sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/markdown/blockprocessors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/markdown/blockprocessors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/_pylab_helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/_pylab_helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/animation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/animation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/artist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/artist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_axes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_axes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_subplots.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axes/_subplots.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/axis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-ui.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/contour.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/contour.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/fontconfig_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/fontconfig_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backend_bases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backend_bases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_agg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_agg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_gtk3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_gtk3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_macosx.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_macosx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_pgf.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_pgf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_template.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/backend_template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/web_backend/js/nbagg_mpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/backends/web_backend/js/nbagg_mpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/figure.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/figure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/gridspec.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/gridspec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/legend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/legend.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/lines.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/mlab.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/mlab.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/patches.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/patches.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/testing/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/testing/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/testing/jpl_units/UnitDbl.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/testing/jpl_units/UnitDbl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/tri/triinterpolate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/tri/triinterpolate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/type1font.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/type1font.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/pyplot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/pyplot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/tight_bbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/tight_bbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/matplotlib/widgets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/matplotlib/widgets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/anchored_artists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/anchored_artists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/axes_divider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/axes_divider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/axes_grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/axes_grid1/axes_grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/mpl_toolkits/mplot3d/axes3d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/add_newdocs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/add_newdocs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/numeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/numeric.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_datetime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_deprecations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_deprecations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_function_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_function_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_item_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_item_selection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_nditer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_nditer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_scalarmath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_scalarmath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_scalarprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_scalarprint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_umath.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/core/tests/test_umath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/command/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/command/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_exec_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_exec_command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_misc_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/distutils/tests/test_misc_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/misc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/subclassing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/doc/subclassing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/auxfuncs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/auxfuncs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/crackfortran.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/f2py/crackfortran.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/arraypad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/arraypad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/npyio.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/npyio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/recfunctions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/recfunctions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__datasource.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__datasource.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__iotools.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__iotools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__version.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test__version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_index_tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_index_tricks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_io.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_shape_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_twodim_base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_type_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/tests/test_type_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/linalg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/tests/test_linalg.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/linalg/tests/test_linalg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/mrecords.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/mrecords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_extras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_old_ma.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/tests/test_old_ma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/timer_comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/ma/timer_comparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/matrixlib/tests/test_interaction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/matrixlib/tests/test_interaction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_chebyshev.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_chebyshev.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_hermite.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_hermite.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_laguerre.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/polynomial/tests/test_laguerre.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/random/tests/test_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/random/tests/test_random.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/random/tests/test_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/random/tests/test_regression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/testing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/testing/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/testing/_private/parameterized.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/testing/_private/parameterized.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/tests/test_scripts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/tests/test_scripts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip-9.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/appdirs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/distlib/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/packaging/requirements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pip/_vendor/webencodings/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/pyparsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorboard/plugins/debugger/health_pill_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorboard/plugins/debugger/health_pill_calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/converters/break_statements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/converters/break_statements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/converters/decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/converters/decorators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/core/converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/core/converter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/operators/control_flow.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/autograph/operators/control_flow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/batching/python/ops/batch_ops_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/batching/python/ops/batch_ops_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/test_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/test_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/vector_diffeomixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/distributions/python/ops/vector_diffeomixture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/estimator/python/estimator/baseline.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/estimator/python/estimator/baseline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/fused_conv/python/ops/fused_conv2d_bias_activation_op_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/fused_conv/python/ops/fused_conv2d_bias_activation_op_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/image/python/ops/image_ops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/image/python/ops/image_ops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/produce_small_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/produce_small_datasets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/text_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/datasets/text_datasets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/_sklearn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/_sklearn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/composable_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/estimators/composable_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/evaluable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/learn/python/learn/evaluable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/metrics/python/metrics/classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/metrics/python/metrics/classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/resampler/python/ops/resampler_ops_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/resampler/python/ops/resampler_ops_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/seq2seq/python/ops/attention_wrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/specs/python/summaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/specs/python/summaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/summary/summary_test_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/summary/summary_test_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tensor_forest/hybrid/python/layers/decisions_to_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tensor_forest/hybrid/python/layers/decisions_to_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/testing/python/framework/util_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/testing/python/framework/util_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/timeseries/examples/lstm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/timeseries/examples/lstm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tpu/python/tpu/keras_support.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/contrib/tpu/python/tpu/keras_support.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/datasets/imdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/datasets/imdb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/datasets/reuters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/datasets/reuters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/distributed_training_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/distributed_training_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/engine/training_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/testing_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/testing_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/wrappers/scikit_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/wrappers/scikit_learn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/distributions/bijector_test_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/distributions/bijector_test_util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/distributions/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/ops/distributions/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/platform/googletest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/platform/googletest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/tools/api/generator/doc_srcs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/tools/api/generator/doc_srcs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/training/saver_test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/training/saver_test_utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/util/protobuf/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/util/protobuf/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/contrib/atom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/contrib/atom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/http.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/http.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/wrappers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lib/site-packages/werkzeug/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/werkzeug/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/logs/events.out.tfevents.1553427070.LAPTOP-38OMLBUA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/logs/events.out.tfevents.1553427157.LAPTOP-38OMLBUA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/logs/events.out.tfevents.1553427294.LAPTOP-38OMLBUA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/neuralNetwork1.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/neuralNetwork1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/simplestNeuralNetwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/simplestNeuralNetwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/twodim_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/numpy/lib/twodim_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/utils/io_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lib/site-packages/tensorflow/python/keras/utils/io_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/1/learnToReadTFGraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/1/neuralNetwork1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/1/placeholderUsage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/1/simplestNeuralNetwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/logs/events.out.tfevents.1553518158.LAPTOP-38OMLBUA" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -154,37 +53,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TensorflowLearning$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1556891078204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1/logs" />
+    <SUITE FILE_PATH="coverage/Tensorflow$2_.coverage" NAME="2  Coverage Results" MODIFIED="1553261570921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$learnToReadTFGraph.coverage" NAME="learnToReadTFGraph Coverage Results" MODIFIED="1556697092284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/basicKnowledge" />
+    <SUITE FILE_PATH="coverage/Tensorflow$2.coverage" NAME="2 Coverage Results" MODIFIED="1552900728663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$neuralNetwork1.coverage" NAME="neuralNetwork1 Coverage Results" MODIFIED="1556873263443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/basicKnowledge" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$1.coverage" NAME="1 Coverage Results" MODIFIED="1556892301021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$neuralNetwork2.coverage" NAME="neuralNetwork2 Coverage Results" MODIFIED="1559663316969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
+    <SUITE FILE_PATH="coverage/Tensorflow$neuralNetwork1.coverage" NAME="neuralNetwork1 Coverage Results" MODIFIED="1553427263792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Tensorflow$4.coverage" NAME="4 Coverage Results" MODIFIED="1553263805799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Tensorflow$1.coverage" NAME="1 Coverage Results" MODIFIED="1553415429501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Tensorflow$2_.coverage" NAME="2  Coverage Results" MODIFIED="1553261570921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/TensorflowLearning$simplestNeuralNetwork.coverage" NAME="simplestNeuralNetwork Coverage Results" MODIFIED="1553516743098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/Tensorflow$2.coverage" NAME="2 Coverage Results" MODIFIED="1552900728663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/TensorflowLearning$neuralNetwork1.coverage" NAME="neuralNetwork1 Coverage Results" MODIFIED="1553518154437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$neural_network3.coverage" NAME="neural_network3 Coverage Results" MODIFIED="1559663123423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$text.coverage" NAME="text Coverage Results" MODIFIED="1556872077241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$2.coverage" NAME="2 Coverage Results" MODIFIED="1556900364533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
     <SUITE FILE_PATH="coverage/Tensorflow$record.coverage" NAME="record Coverage Results" MODIFIED="1553255441911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Tensorflow$2__1_.coverage" NAME="2  Coverage Results" MODIFIED="1553083884592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Tensorflow$3.coverage" NAME="3 Coverage Results" MODIFIED="1553409315336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Tensorflow$test.coverage" NAME="test Coverage Results" MODIFIED="1553419534184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Tensorflow$neuralNetwork1.coverage" NAME="neuralNetwork1 Coverage Results" MODIFIED="1553427263792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/TensorflowLearning$3.coverage" NAME="3 Coverage Results" MODIFIED="1556963308908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/TF1" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Tensorflow" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="neuralNetwork1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py">
+      <file leaf-file-name="neuralNetwork2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/TF1/neuralNetwork2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="94" column="37" lean-forward="true" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simplestNeuralNetwork.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/simplestNeuralNetwork.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
-              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+            <state relative-caret-position="30">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+              <folding>
+                <element signature="e#89#112#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -201,6 +116,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>weight</find>
+      <find>mnist</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -222,6 +138,20 @@
         <option value="$PROJECT_DIR$/test/test.py" />
         <option value="$PROJECT_DIR$/code/neuralNetwork1.py" />
         <option value="$PROJECT_DIR$/code/simplestNeuralNetwork.py" />
+        <option value="$PROJECT_DIR$/code/placeholderUsage.py" />
+        <option value="$PROJECT_DIR$/code/TF1/text.py" />
+        <option value="$PROJECT_DIR$/code/TF1/logs/2.py" />
+        <option value="$PROJECT_DIR$/code/TF1/1.py" />
+        <option value="$PROJECT_DIR$/code/TF1/2.py" />
+        <option value="$PROJECT_DIR$/code/basicKnowledge/neuralNetwork1.py" />
+        <option value="$PROJECT_DIR$/code/TF1/3.py" />
+        <option value="$PROJECT_DIR$/code/functional_programming/1.py" />
+        <option value="$PROJECT_DIR$/code/TF1/neuralNetwork2.py" />
+        <option value="$PROJECT_DIR$/code/TF1/neural_network2.py" />
+        <option value="$PROJECT_DIR$/code/TF1/input_data/neural_network3.py" />
+        <option value="$PROJECT_DIR$/code/TF1/input_data/input_data.py" />
+        <option value="$PROJECT_DIR$/code/TF1/input_data.py" />
+        <option value="$PROJECT_DIR$/code/TF1/neural_network3.py" />
       </list>
     </option>
   </component>
@@ -232,8 +162,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="72" />
-    <option name="y" value="234" />
+    <option name="x" value="31" />
+    <option name="y" value="307" />
     <option name="width" value="1827" />
     <option name="height" value="1032" />
   </component>
@@ -254,6 +184,12 @@
               <item name="TensorflowLearning" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TensorflowLearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorflowLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="basicKnowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -263,10 +199,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -278,6 +215,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonProject\TensorflowLearning\code\TF1\input_data" />
+      <recent name="D:\pythonProject\TensorflowLearning\code\TF1" />
+      <recent name="D:\pythonProject\TensorflowLearning\code\1" />
       <recent name="D:\pythonProject\Tensorflow\test" />
     </key>
   </component>
@@ -293,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.neuralNetwork1">
-    <configuration name="neuralNetwork1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.neuralNetwork2">
+    <configuration name="neuralNetwork2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,18 +242,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/TF1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/neuralNetwork1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/TF1/neuralNetwork2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="simplestNeuralNetwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="neural_network3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -321,25 +261,25 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/TF1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/simplestNeuralNetwork.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/TF1/neural_network3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.neuralNetwork1" />
-      <item itemvalue="Python.simplestNeuralNetwork" />
+      <item itemvalue="Python.neural_network3" />
+      <item itemvalue="Python.neuralNetwork2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.neuralNetwork1" />
-        <item itemvalue="Python.simplestNeuralNetwork" />
+        <item itemvalue="Python.neuralNetwork2" />
+        <item itemvalue="Python.neural_network3" />
       </list>
     </recent_temporary>
   </component>
@@ -370,22 +310,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <frame x="21" y="205" width="1218" height="688" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4987874" weight="0.29598662" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.502021" side_tool="true" weight="0.24749164" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50282943" side_tool="true" weight="0.42474917" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32943144" />
-      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3277592" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" weight="0.56856185" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4995958" visible="true" weight="0.64214045" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" weight="0.58447856" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.5167224" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49717057" weight="0.24916388" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4995958" weight="0.7005445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.21034482" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.2392886" />
+      <window_info anchor="right" id="Database" order="3" weight="0.23443815" />
+      <window_info anchor="right" x="746" y="111" width="296" height="534" id="SciView" order="5" weight="0.105901375" />
       <window_info id="Structure" order="1" sideWeight="0.501355" side_tool="true" weight="0.25383994" />
       <window_info id="Favorites" order="2" sideWeight="0.501355" side_tool="true" weight="0.25383994" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44741234" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28929767" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.3305509" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -393,33 +333,33 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3277592" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25083613" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info id="Favorites" order="2" sideWeight="0.501355" side_tool="true" weight="0.25383994" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49864498" visible="true" weight="0.2708165" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864498" weight="0.18997575" />
       <window_info id="Structure" order="1" sideWeight="0.501355" side_tool="true" weight="0.25383994" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32888147" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" visible="true" weight="0.21368948" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.44741234" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3305509" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5004042" side_tool="true" weight="0.34390652" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4987874" weight="0.29598662" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497979" visible="true" weight="0.08862876" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3277592" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3277592" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4464883" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.502021" side_tool="true" weight="0.24749164" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.2392886" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.23120452" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4995958" weight="0.312187" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32888147" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4995958" weight="0.6571906" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3305509" />
+      <window_info id="Favorites" order="2" sideWeight="0.501355" side_tool="true" weight="0.25383994" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,7 +373,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="25" />
+      <option name="time" value="32" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -451,19 +391,24 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py">
+    <entry file="file://$PROJECT_DIR$/code/TF1/neuralNetwork2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        <state relative-caret-position="261">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#89#112#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
-    <entry file="file://$PROJECT_DIR$/code/test.py" />
-    <entry file="file://$PROJECT_DIR$/code/simplestNeuralNetwork.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/test.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/TF1/neural_network3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25665">
@@ -472,36 +417,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25665">
-          <caret line="885" selection-start-line="885" selection-end-line="885" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/code/1/learnToReadTFGraph.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/learnToReadTFGraph.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/learnToReadTFGraph.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/learnToReadTFGraph.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/learnToReadTFGraph.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
-    <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
     <entry file="file://$PROJECT_DIR$/test/mBlog.conf" />
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -517,18 +452,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lib/site-packages/tensorflow/python/client/session.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="1307" selection-start-line="1307" selection-end-line="1307" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/learnToReadTFGraph.py" />
-    <entry file="file://$PROJECT_DIR$/code/placeholderUsage.py" />
-    <entry file="file://$PROJECT_DIR$/code/simplestNeuralNetwork.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/placeholderUsage.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/simplestNeuralNetwork.py" />
     <entry file="file://$PROJECT_DIR$/test/record.py" />
-    <entry file="file://$PROJECT_DIR$/code/test.py" />
     <entry file="file://$PROJECT_DIR$/Lib/site-packages/numpy/core/numeric.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1354">
@@ -536,31 +462,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/placeholderUsage.py">
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/simplestNeuralNetwork.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/placeholderUsage.py" />
+    <entry file="file://$PROJECT_DIR$/code/1/neuralNetwork1.py" />
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/tensorflow/python/training/optimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
+        <state relative-caret-position="2305">
+          <caret line="510" selection-start-line="510" selection-end-line="510" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/simplestNeuralNetwork.py">
+    <entry file="file://$PROJECT_DIR$/code/basicKnowledge/placeholderUsage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        <state relative-caret-position="-265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/basicKnowledge/simplestNeuralNetwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/neuralNetwork1.py">
+    <entry file="file://$PROJECT_DIR$/Lib/site-packages/tensorflow/python/client/session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="94" column="37" lean-forward="true" selection-start-line="94" selection-start-column="37" selection-end-line="94" selection-end-column="37" />
+        <state relative-caret-position="54">
+          <caret line="1307" selection-start-line="1307" selection-end-line="1307" />
         </state>
       </provider>
     </entry>
+    <entry file="file://D:/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="331" selection-start-line="331" selection-end-line="331" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/TF1/text.py" />
+    <entry file="file://$PROJECT_DIR$/code/TF1/logs/2.py" />
+    <entry file="file://$PROJECT_DIR$/code/TF1/1.py" />
+    <entry file="file://$PROJECT_DIR$/code/TF1/3.py" />
+    <entry file="file://$PROJECT_DIR$/code/basicKnowledge/neuralNetwork1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="43" column="70" selection-start-line="43" selection-start-column="60" selection-end-line="43" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/TF1/2.py" />
+    <entry file="file://$PROJECT_DIR$/code/functional_programming/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/TF1/input_data.py" />
+    <entry file="file://$PROJECT_DIR$/code/TF1/neural_network3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="198" column="41" selection-start-line="198" selection-start-column="41" selection-end-line="198" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/TF1/neuralNetwork2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#89#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

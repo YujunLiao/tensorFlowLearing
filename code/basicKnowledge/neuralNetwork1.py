@@ -41,11 +41,11 @@ with tf.name_scope('inputsTrainingData'):
 # add hide layer and output layer
 # one input, one output
 # ten neural on hide layer
-hideLayer = add_layer(xs, 1, 10, 'hide', activation_function=tf.nn.relu)
-predictionLayer = add_layer(hideLayer, 10, 1, 'prediction', activation_function=None)
+hideLayer = add_layer(xs, 1, 1, 'hide', activation_function=tf.nn.relu)
+predictionLayer = add_layer(hideLayer, 1, 1, 'prediction', activation_function=tf.nn.relu)
 # compute loss
 with tf.name_scope('lossCompute'):
-    loss = tf.reduce_mean(tf.reduce_sum(tf.square(ys - predictionLayer), reduction_indices=[1]))
+    loss = tf.reduce_mean(tf.reduce_sum(tf.square(ys - predictionLayer), 1))  # 1:row 0:column
     # result visualization, record the change of the variable
     tf.summary.scalar('loss', loss)
 # define the train step to minimize the loss.
@@ -94,7 +94,7 @@ with tf.Session() as sess:
             rs = sess.run(merged, feed_dict={xs: x_data, ys: y_data})
             writer.add_summary(rs, i)
             try:
-                print(i)
+                # print(i)
                 # remove a line according to the name
                 # for example,subFig.lines.remove(Line2D(_line0))
                 # subFig.lines.remove(line[0])
@@ -108,7 +108,7 @@ with tf.Session() as sess:
             # line = subFig.plot(x_data, prediction_value, 'r-', lw=1)
             subFig.plot(x_data, prediction_value, 'r-', lw=1)
             plt.show(block=False)
-            plt.pause(0.5)
+            # plt.pause(0.5)
 
             # example
             # print(line)
@@ -131,7 +131,8 @@ with tf.Session() as sess:
 
             # print(subFig.lines, subFig.lines[0], len(subFig.lines))
             # print(line, line[0], len(line))
-
+    print("done")
+    writer.flush()
     writer.close()
 
 
